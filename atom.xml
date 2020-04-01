@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ECLIPSEXs.github.io</id>
     <title>ECLIPSE&apos;s Song Menu</title>
-    <updated>2020-04-01T03:57:11.476Z</updated>
+    <updated>2020-04-01T04:03:36.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ECLIPSEXs.github.io"/>
     <link rel="self" href="https://ECLIPSEXs.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://ECLIPSEXs.github.io/images/avatar.png</logo>
     <icon>https://ECLIPSEXs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ECLIPSE&apos;s Song Menu</rights>
+    <entry>
+        <title type="html"><![CDATA[S2: California - Hakuna]]></title>
+        <id>https://ECLIPSEXs.github.io/post/s2-california-hakuna/</id>
+        <link href="https://ECLIPSEXs.github.io/post/s2-california-hakuna/">
+        </link>
+        <updated>2020-04-01T03:59:14.000Z</updated>
+        <content type="html"><![CDATA[<p>第二首！！😆<br>
+链接：http://music.163.com/song?id=440464351&amp;userid=315635317<br>
+在线听歌：</p>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+</head>
+<body>  
+    <audio src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbnVDbUdBM3A2QzYybkRaV3lVQVVoNTFEY2tTP2U9Tm5saU9P.mp3" controls>
+        您的浏览器不支持 audio 标签。
+    </audio></body>
+</html>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S1: Post Malone - Sam Feldt/RANI]]></title>
         <id>https://ECLIPSEXs.github.io/post/p1/</id>
@@ -19,8 +40,6 @@
         <content type="html"><![CDATA[<p>第一首歌😆！<br>
 Post Malone - Sam Feldt/RANI<br>
 链接：http://music.163.com/song?id=1366775011<br>
-下载地址：https://www.lanzous.com/iattl8h<br>
-密码：esm<br>
 在线听歌：</p>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
