@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ECLIPSEXs.github.io</id>
     <title>ECLIPSE&apos;s Song Menu</title>
-    <updated>2020-04-01T03:38:58.250Z</updated>
+    <updated>2020-04-01T03:57:11.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ECLIPSEXs.github.io"/>
     <link rel="self" href="https://ECLIPSEXs.github.io/atom.xml"/>
@@ -20,7 +20,8 @@
 Post Malone - Sam Feldt/RANI<br>
 链接：http://music.163.com/song?id=1366775011<br>
 下载地址：https://www.lanzous.com/iattl8h<br>
-密码：esm</p>
+密码：esm<br>
+在线听歌：</p>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -28,7 +29,7 @@ Post Malone - Sam Feldt/RANI<br>
 <title></title>
 </head>
 <body>  
-    <audio src="D:\CloudMusic\Sam Feldt & RANI - Post Malone.mp3" controls>
+    <audio src="https://onedrive.gimhoy.com/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBbnVDbUdBM3A2QzYybV9rRl9qQnZwZ3dGdEdFP2U9ZUhwbG5T.mp3" controls>
         您的浏览器不支持 audio 标签。
     </audio></body>
 </html>]]></content>
